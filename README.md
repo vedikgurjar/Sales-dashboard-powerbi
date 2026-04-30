@@ -65,6 +65,9 @@ sales-dashboard-powerbi/
 │
 │── README.md
 
+## 📸 Dashboard Preview
+
+
 
 ## ▶️ How to Use
 
