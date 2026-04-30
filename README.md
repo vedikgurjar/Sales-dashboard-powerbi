@@ -94,6 +94,5 @@ This dashboard helps in understanding sales trends, identifying top-performing c
 ---
 
 ## 🔗 Connect With Me
-www.linkedin.com/in/vedik-gurjar
-* GitHub: https://github.com/vedikgurjar
-* LinkedIn: ADD_YOUR_LINK_HERE
+
+* LinkedIn: www.linkedin.com/in/vedik-gurjar
