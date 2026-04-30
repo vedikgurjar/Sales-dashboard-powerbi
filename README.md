@@ -69,7 +69,7 @@ sales-dashboard-powerbi/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
